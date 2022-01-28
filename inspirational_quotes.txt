@@ -10,13 +10,13 @@
 4. “The bad news is time flies. The good news is you’re the pilot.”
 — Michael Altshuler
 
-<<<<<<< HEAD
 5. "Live by the fire, die by the fire."
 - Fire
-=======
-5. "If you do me, do me well. If you don't do me, well then... FUCK OFF."
+6. "If you do me, do me well. If you don't do me, well then... FUCK OFF."
 - Alexander Schatzki-Lumpkin
 
-6. "A tornado flew around my rooom before I came, excuse the mess it made..."
+7. "A tornado flew around my rooom before I came, excuse the mess it made..."
 - Frank Ocean
->>>>>>> new_quotes
+
+8. "I like green"
+- Alex
